@@ -2,3 +2,4 @@ build/
 *.png
 *.txt
 .DS_Store
+!CMakeLists.txt
